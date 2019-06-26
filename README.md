@@ -6,11 +6,11 @@ Most of my work lies at the interface of psychology, education, neuroscience, an
 
 ## Scientific Contributions
 
-I've published articles on a range of topics including intelligence, ADHD, genetics, skill training and transfer, creativity, striatal organization, bootstrap aggregation, reproducibility, and mentorship for early career researchers. You can find a list of some of my scientific publications [here](https://scholar.google.com/citations?user=mGfNXcQAAAAJ&hl=en).
+I've [published articles on a range of topics](https://scholar.google.com/citations?user=mGfNXcQAAAAJ&hl=en) including intelligence, ADHD, genetics, skill training and transfer, creativity, striatal organization, bootstrap aggregation, reproducibility, and mentorship for early career researchers.
 
 ## Software Development
 
-I've developed an open source python package, called PyBASC, to help create more reproducible parcellations in fMRI data. This enables us to make better maps of the brain that are more generalizable within-groups over time, and between groups. You can find out more about this software [here] (https://github.com/AkiNikolaidis/PyBASC/tree/master/PyBASC).
+I've developed an open source python package, called [PyBASC](https://github.com/AkiNikolaidis/PyBASC/tree/master/PyBASC), to help create more reproducible parcellations in fMRI data. This enables us to make better maps of the brain that are more generalizable within-groups over time, and between groups.
 
 ## Helping the Community
 
