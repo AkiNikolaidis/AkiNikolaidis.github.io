@@ -19,7 +19,7 @@ I've developed an open source python package, called PyBASC, to help create more
 
 ## Helping the Community
 
-I've been fortunate to work in the Organization for Human Brain Mapping Student and Postdoc Special Interest Group over the past two years. We've been focused on an array of efforts to support graduate students and postdocs in their careers by providing access to mentorship, skills training, and career advice. I've spearheaded an effort to bring more concerted training to young professionals in a range of issues around the #MeToo movement. Specifically we've provided training on a range of issues including strategies to resolve conflict in situations of lower power, consent, micro-aggressions in the worklace, and how to handle unwanted sexualization in the workplace. [#MeToo Workshops](https://ohbm-trainees.squarespace.com/metoo/).
+I've been fortunate to work in the [Organization for Human Brain Mapping Student and Postdoc Special Interest Group](https://ohbm-trainees.squarespace.com/) over the past two years. We've been focused on an array of efforts to support graduate students and postdocs in their careers by providing access to mentorship, skills training, and career advice. I've spearheaded an effort to bring more concerted training to young professionals in a range of issues around the #MeToo movement. Specifically we've provided training on a range of issues including strategies to resolve conflict in situations of lower power, consent, micro-aggressions in the worklace, and how to handle unwanted sexualization in the workplace. [#MeToo Workshops](https://ohbm-trainees.squarespace.com/metoo/).
 
 
 
