@@ -2,7 +2,7 @@
 
 I work at the [Child Mind Institute](https://childmind.org/center/center-developing-brain/)., a non-profit devoted to advancing the pace of discovery in child and adolescent mental health. I focus on understanding how to use advanced statistical algorithms to help us better understand the brain's corticostriatal circuits, which are responsible for skill and habit learning.
 
-Most of my work lies at the interface of psychology, education, neuroscience, and statistics.
+Most of my work lies at the interface of psychology, education, neuroscience, and statistics. [Download my CV](https://github.com/AkiNikolaidis/Me/blob/master/aki_cv_2019.doc)
 
 ## Scientific Contributions
 
